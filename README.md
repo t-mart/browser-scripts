@@ -3,7 +3,7 @@
 This repository will store browser scripts I load with
 [Violentmonkey](https://violentmonkey.github.io/).
 
-## Importing
+## Importing these scripts to Violentmonkey
 
 - Method #1:
 
@@ -28,7 +28,7 @@ This repository will store browser scripts I load with
 
   Just copy paste scripts from here as new scripts.
 
-## Exporting
+## Exporting loaded violentmonkey scripts to this repository
 
 1. Navigate to the Violentmonkey settings (click Violentmonkey icon in browser's extension toolbar,
    then click gear icon).
