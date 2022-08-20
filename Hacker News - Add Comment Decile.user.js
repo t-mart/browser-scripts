@@ -7,7 +7,7 @@
 // @version     1.0.0
 // @author      t-mart
 // @homepageURL https://github.com/t-mart/browser-scripts
-// @description 8/20/2022, 9:48:43 AM
+// @downloadURL https://raw.githubusercontent.com/t-mart/browser-scripts/master/Hacker%20News%20-%20Add%20Comment%20Decile.js
 // ==/UserScript==
 
 const COLOR_COMMENT_TEXT_PATTERN = /^c[a-fA-F0-9]{2}$/;
